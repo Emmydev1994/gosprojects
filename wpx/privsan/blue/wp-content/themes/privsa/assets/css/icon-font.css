@@ -1,0 +1,151 @@
+@font-face {
+    font-family: 'iconfont';
+    src:  url('../fonts/iconfont.eot');
+    src:  url('../fonts/iconfont.eot#iefix') format('embedded-opentype'),
+      url('../fonts/iconfont.ttf') format('truetype'),
+      url('../fonts/iconfont.woff') format('woff'),
+      url('../fonts/iconfont.svg') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: block;
+  }
+  
+  [class^="tsicon-"], [class*="icon tsicon-"], i.icon {
+    /* use !important to prevent issues with browser extensions that change fonts */
+    font-family: 'iconfont' !important;
+    speak: none;
+    font-style: normal;
+    font-weight: normal;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+  
+    /* Better Font Rendering =========== */
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+  
+  .tsicon-humburger:before {
+    content: "\e900";
+  }
+  .tsicon-arrow-down:before {
+    content: "\e901";
+  }
+  .tsicon-arrow-left:before {
+    content: "\e902";
+  }
+  .tsicon-arrow-right:before {
+    content: "\e903";
+  }
+  .tsicon-arrow-up:before {
+    content: "\e904";
+  }
+  .tsicon-uniE905:before {
+    content: "\e905";
+  }
+  .tsicon-uniE906:before {
+    content: "\e906";
+  }
+  .tsicon-uniE907:before {
+    content: "\e907";
+  }
+  .tsicon-uniE908:before {
+    content: "\e908";
+  }
+  .tsicon-uniE909:before {
+    content: "\e909";
+  }
+  .tsicon-form-category:before {
+    content: "\e90a";
+  }
+  .tsicon-form-email:before {
+    content: "\e90b";
+  }
+  .tsicon-form-message:before {
+    content: "\e90c";
+  }
+  .tsicon-form-phone:before {
+    content: "\e90d";
+  }
+  .tsicon-form-user:before {
+    content: "\e90e";
+  }
+  .tsicon-funfact-1:before {
+    content: "\e90f";
+  }
+  .tsicon-funfact-2:before {
+    content: "\e910";
+  }
+  .tsicon-funfact-3:before {
+    content: "\e911";
+  }
+  .tsicon-funfact-4:before {
+    content: "\e912";
+  }
+  .tsicon-location:before {
+    content: "\e913";
+  }
+  .tsicon-phone:before {
+    content: "\e914";
+  }
+  .tsicon-phone_2:before {
+    content: "\e915";
+  }
+  .tsicon-uniE916:before {
+    content: "\e916";
+  }
+  .tsicon-uniE917:before {
+    content: "\e917";
+  }
+  .tsicon-uniE918:before {
+    content: "\e918";
+  }
+  .tsicon-plus-circle:before {
+    content: "\e919";
+  }
+  .tsicon-quote-down:before {
+    content: "\e91a";
+  }
+  .tsicon-quote-up:before {
+    content: "\e91b";
+  }
+  .tsicon-service-1:before {
+    content: "\e91c";
+  }
+  .tsicon-service-2:before {
+    content: "\e91d";
+  }
+  .tsicon-service-3:before {
+    content: "\e91e";
+  }
+  .tsicon-service-4:before {
+    content: "\e91f";
+  }
+  .tsicon-service-5:before {
+    content: "\e920";
+  }
+  .tsicon-service-6:before {
+    content: "\e921";
+  }
+  .tsicon-service-7:before {
+    content: "\e922";
+  }
+  .tsicon-service-8:before {
+    content: "\e923";
+  }
+  .tsicon-service-9:before {
+    content: "\e924";
+  }
+  .tsicon-star:before {
+    content: "\e925";
+  }
+  .tsicon-ts-envelope:before {
+    content: "\e926";
+  }
+  .tsicon-tsplus:before {
+    content: "\e927";
+  }
+  .tsicon-tssearch:before {
+    content: "\e928";
+  }
+  

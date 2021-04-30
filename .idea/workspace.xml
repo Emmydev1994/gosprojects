@@ -1,0 +1,476 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="71470b80-22cb-41f8-bf2b-1d8fb1736075" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="70">
+              <caret line="1581" selection-start-line="1581" selection-end-line="1581" />
+              <folding>
+                <element signature="e#44440#44461#0" expanded="true" />
+                <element signature="e#44744#44790#0" expanded="true" />
+                <element signature="e#45378#45409#0" expanded="true" />
+                <element signature="e#46024#46055#0" expanded="true" />
+                <element signature="e#48081#48112#0" expanded="true" />
+                <element signature="e#48202#48233#0" expanded="true" />
+                <element signature="e#53713#53821#0" expanded="true" />
+                <element signature="e#55814#55913#0" expanded="true" />
+                <element signature="e#57909#58008#0" expanded="true" />
+                <element signature="e#66165#66185#0" expanded="true" />
+                <element signature="e#70916#70939#0" expanded="true" />
+                <element signature="e#74486#74578#0" expanded="true" />
+                <element signature="e#71861#71881#0" expanded="true" />
+                <element signature="e#72643#72663#0" expanded="true" />
+                <element signature="e#73405#73425#0" expanded="true" />
+                <element signature="e#74139#74159#0" expanded="true" />
+                <element signature="e#75002#75023#0" expanded="true" />
+                <element signature="e#74463#74494#0" expanded="true" />
+                <element signature="e#78608#78628#0" expanded="true" />
+                <element signature="e#79019#79040#0" expanded="true" />
+                <element signature="e#79387#79408#0" expanded="true" />
+                <element signature="e#79804#79825#0" expanded="true" />
+                <element signature="e#80181#80202#0" expanded="true" />
+                <element signature="e#80548#80569#0" expanded="true" />
+                <element signature="e#91835#93606#0" />
+                <element signature="e#112656#112676#0" expanded="true" />
+                <element signature="e#114628#114648#0" expanded="true" />
+                <element signature="e#116608#116628#0" expanded="true" />
+                <element signature="e#121484#145977#0" />
+                <element signature="e#177240#177271#0" expanded="true" />
+                <element signature="e#193357#193389#0" expanded="true" />
+                <element signature="e#165167#165187#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/about.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="209">
+              <caret line="405" selection-start-line="405" selection-end-line="405" />
+              <folding>
+                <element signature="e#40609#40629#0" expanded="true" />
+                <element signature="e#41211#41242#0" expanded="true" />
+                <element signature="e#41801#41833#0" expanded="true" />
+                <element signature="e#44037#44068#0" expanded="true" />
+                <element signature="e#45701#45732#0" expanded="true" />
+                <element signature="e#45763#45794#0" expanded="true" />
+                <element signature="e#51998#52098#0" expanded="true" />
+                <element signature="e#49647#49670#0" expanded="true" />
+                <element signature="e#59086#59117#0" expanded="true" />
+                <element signature="e#73615#73635#0" expanded="true" />
+                <element signature="e#75080#75100#0" expanded="true" />
+                <element signature="e#76508#76528#0" expanded="true" />
+                <element signature="e#105613#105644#0" expanded="true" />
+                <element signature="e#107771#107791#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/contact.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="32">
+              <caret line="420" column="51" selection-start-line="420" selection-start-column="51" selection-end-line="420" selection-end-column="51" />
+              <folding>
+                <element signature="e#40863#40894#0" expanded="true" />
+                <element signature="e#41453#41484#0" expanded="true" />
+                <element signature="e#43278#43309#0" expanded="true" />
+                <element signature="e#45038#45063#0" expanded="true" />
+                <element signature="e#51598#51690#0" expanded="true" />
+                <element signature="e#70047#70078#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>ekit-</find>
+      <find>banne</find>
+      <find>Top Rated Lawyers</find>
+      <find>info@privsa.com</find>
+      <find>Completed Cases</find>
+      <find>rgb</find>
+      <find>elementor-widget-container</find>
+      <find>elementor-column-wrap  elementor-element-populated</find>
+      <find>409</find>
+      <find>Our Achievements</find>
+      <find>Our Team</find>
+      <find>lo</find>
+      <find>VIEW</find>
+      <find>A Progressive Global Law Firm</find>
+      <find>COMP</find>
+      <find>SELECT</find>
+      <find>The demand and appetite for improvements in technology is not only driven by the healthcare practitioners increasingly</find>
+      <find>d-flex align-items-center banner-area banner-bg</find>
+      <find>COMPETIT</find>
+      <find>#ekit_modal-popup-d235a82</find>
+      <find>logo</find>
+      <find>elementor-widget-wrap</find>
+      <find>©2020,</find>
+      <find>Copyright</find>
+      <find>2020</find>
+      <find>About US</find>
+      <find>We Treat Our Clients Like Family</find>
+      <find>Legal info</find>
+      <find>From the Blog</find>
+      <find>Pages</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/wp/privsan/blue/wp-content/themes/privsa/assets/css/master.css" />
+        <option value="$PROJECT_DIR$/wpx/privsan/blue/wp-content/themes/privsa/assets/css/master.css" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/about.html" />
+        <option value="$PROJECT_DIR$/contact.html" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="width" value="1280" />
+    <option name="height" value="800" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="project" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="project" type="462c0819:PsiDirectoryNode" />
+              <item name="wp" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="project" type="462c0819:PsiDirectoryNode" />
+              <item name="wpx" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="project" type="462c0819:PsiDirectoryNode" />
+              <item name="wpx" type="462c0819:PsiDirectoryNode" />
+              <item name="privsan" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="project" type="462c0819:PsiDirectoryNode" />
+              <item name="wpx" type="462c0819:PsiDirectoryNode" />
+              <item name="privsan" type="462c0819:PsiDirectoryNode" />
+              <item name="blue" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="project" type="462c0819:PsiDirectoryNode" />
+              <item name="wpx" type="462c0819:PsiDirectoryNode" />
+              <item name="privsan" type="462c0819:PsiDirectoryNode" />
+              <item name="blue" type="462c0819:PsiDirectoryNode" />
+              <item name="wp-content" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="project" type="462c0819:PsiDirectoryNode" />
+              <item name="wpx" type="462c0819:PsiDirectoryNode" />
+              <item name="privsan" type="462c0819:PsiDirectoryNode" />
+              <item name="blue" type="462c0819:PsiDirectoryNode" />
+              <item name="wp-content" type="462c0819:PsiDirectoryNode" />
+              <item name="themes" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="project" type="462c0819:PsiDirectoryNode" />
+              <item name="wpx" type="462c0819:PsiDirectoryNode" />
+              <item name="privsan" type="462c0819:PsiDirectoryNode" />
+              <item name="blue" type="462c0819:PsiDirectoryNode" />
+              <item name="wp-content" type="462c0819:PsiDirectoryNode" />
+              <item name="themes" type="462c0819:PsiDirectoryNode" />
+              <item name="privsa" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="project" type="462c0819:PsiDirectoryNode" />
+              <item name="wpx" type="462c0819:PsiDirectoryNode" />
+              <item name="privsan" type="462c0819:PsiDirectoryNode" />
+              <item name="blue" type="462c0819:PsiDirectoryNode" />
+              <item name="wp-content" type="462c0819:PsiDirectoryNode" />
+              <item name="themes" type="462c0819:PsiDirectoryNode" />
+              <item name="privsa" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="project" type="462c0819:PsiDirectoryNode" />
+              <item name="wpx" type="462c0819:PsiDirectoryNode" />
+              <item name="privsan" type="462c0819:PsiDirectoryNode" />
+              <item name="blue" type="462c0819:PsiDirectoryNode" />
+              <item name="wp-content" type="462c0819:PsiDirectoryNode" />
+              <item name="themes" type="462c0819:PsiDirectoryNode" />
+              <item name="privsa" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="71470b80-22cb-41f8-bf2b-1d8fb1736075" name="Default Changelist" comment="" />
+      <created>1619729471874</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1619729471874</updated>
+      <workItem from="1619729476396" duration="4857000" />
+      <workItem from="1619763826605" duration="15556000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="20413000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1280" height="800" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2494043" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/wp/privsan/classic-blue/wp-content/uploads/sites/4/2020/09/md1.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../demo.themewinter.com_emmyobande2015_gmail.com_41xy5waxmq_backup/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="321">
+          <caret line="1395" column="105" selection-start-line="1395" selection-start-column="95" selection-end-line="1395" selection-end-column="105" />
+          <folding>
+            <element signature="e#121484#145977#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp/privsan/blue/wp-includes/css/dist/block-library/theme.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="10" selection-start-column="10" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp/privsan/blue/wp-includes/css/dist/block-library/style.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="5" column="81" selection-start-line="5" selection-start-column="81" selection-end-line="5" selection-end-column="81" />
+          <folding>
+            <element signature="e#24553#24684#2" expanded="true" />
+            <element signature="e#24696#24827#2" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp/privsan/blue/wp-content/themes/privsa/assets/css/master.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="875">
+          <caret line="820" column="19" selection-start-line="820" selection-start-column="19" selection-end-line="820" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wpx/privsan/blue/wp-content/themes/privsa/assets/css/font-awesome.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wpx/privsan/blue/wp-content/themes/privsa/assets/css/bootstrap.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="83">
+          <caret line="5" column="6741" lean-forward="true" selection-start-line="5" selection-start-column="6741" selection-end-line="5" selection-end-column="6741" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wpx/privsan/blue/wp-content/themes/privsa/assets/css/blog.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="23">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wpx/privsan/blue/wp-content/themes/privsa/assets/css/gutenberg-custom.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="267">
+          <caret line="138" column="27" selection-start-line="138" selection-start-column="27" selection-end-line="138" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wpx/privsan/blue/wp-content/themes/privsa/assets/css/master.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="364">
+          <caret line="2450" column="19" lean-forward="true" selection-start-line="2450" selection-start-column="19" selection-end-line="2450" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Applications/MAMP/htdocs/trissiy /triune/christain/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="460">
+          <caret line="20" selection-start-line="20" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wpx/privsan/blue/wp-content/themes/privsa/assets/css/icon-font.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-28" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="70">
+          <caret line="1581" selection-start-line="1581" selection-end-line="1581" />
+          <folding>
+            <element signature="e#44440#44461#0" expanded="true" />
+            <element signature="e#44744#44790#0" expanded="true" />
+            <element signature="e#45378#45409#0" expanded="true" />
+            <element signature="e#46024#46055#0" expanded="true" />
+            <element signature="e#48081#48112#0" expanded="true" />
+            <element signature="e#48202#48233#0" expanded="true" />
+            <element signature="e#53713#53821#0" expanded="true" />
+            <element signature="e#55814#55913#0" expanded="true" />
+            <element signature="e#57909#58008#0" expanded="true" />
+            <element signature="e#66165#66185#0" expanded="true" />
+            <element signature="e#70916#70939#0" expanded="true" />
+            <element signature="e#74486#74578#0" expanded="true" />
+            <element signature="e#71861#71881#0" expanded="true" />
+            <element signature="e#72643#72663#0" expanded="true" />
+            <element signature="e#73405#73425#0" expanded="true" />
+            <element signature="e#74139#74159#0" expanded="true" />
+            <element signature="e#75002#75023#0" expanded="true" />
+            <element signature="e#74463#74494#0" expanded="true" />
+            <element signature="e#78608#78628#0" expanded="true" />
+            <element signature="e#79019#79040#0" expanded="true" />
+            <element signature="e#79387#79408#0" expanded="true" />
+            <element signature="e#79804#79825#0" expanded="true" />
+            <element signature="e#80181#80202#0" expanded="true" />
+            <element signature="e#80548#80569#0" expanded="true" />
+            <element signature="e#91835#93606#0" />
+            <element signature="e#112656#112676#0" expanded="true" />
+            <element signature="e#114628#114648#0" expanded="true" />
+            <element signature="e#116608#116628#0" expanded="true" />
+            <element signature="e#121484#145977#0" />
+            <element signature="e#177240#177271#0" expanded="true" />
+            <element signature="e#193357#193389#0" expanded="true" />
+            <element signature="e#165167#165187#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/about.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="405" selection-start-line="405" selection-end-line="405" />
+          <folding>
+            <element signature="e#40609#40629#0" expanded="true" />
+            <element signature="e#41211#41242#0" expanded="true" />
+            <element signature="e#41801#41833#0" expanded="true" />
+            <element signature="e#44037#44068#0" expanded="true" />
+            <element signature="e#45701#45732#0" expanded="true" />
+            <element signature="e#45763#45794#0" expanded="true" />
+            <element signature="e#51998#52098#0" expanded="true" />
+            <element signature="e#49647#49670#0" expanded="true" />
+            <element signature="e#59086#59117#0" expanded="true" />
+            <element signature="e#73615#73635#0" expanded="true" />
+            <element signature="e#75080#75100#0" expanded="true" />
+            <element signature="e#76508#76528#0" expanded="true" />
+            <element signature="e#105613#105644#0" expanded="true" />
+            <element signature="e#107771#107791#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/contact.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="32">
+          <caret line="420" column="51" selection-start-line="420" selection-start-column="51" selection-end-line="420" selection-end-column="51" />
+          <folding>
+            <element signature="e#40863#40894#0" expanded="true" />
+            <element signature="e#41453#41484#0" expanded="true" />
+            <element signature="e#43278#43309#0" expanded="true" />
+            <element signature="e#45038#45063#0" expanded="true" />
+            <element signature="e#51598#51690#0" expanded="true" />
+            <element signature="e#70047#70078#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
