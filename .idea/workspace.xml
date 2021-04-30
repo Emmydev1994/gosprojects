@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="71470b80-22cb-41f8-bf2b-1d8fb1736075" name="Default Changelist" comment="" />
+    <list default="true" id="71470b80-22cb-41f8-bf2b-1d8fb1736075" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/about.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/contact.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp/privsan/blue/wp-content/uploads/sites/4/2020/09/video_image.png" beforeDir="false" afterPath="$PROJECT_DIR$/wp/privsan/blue/wp-content/uploads/sites/4/2020/09/video_image.png" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -13,11 +18,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="70">
-              <caret line="1581" selection-start-line="1581" selection-end-line="1581" />
+            <state relative-caret-position="149">
+              <caret line="886" column="221" selection-start-line="886" selection-start-column="216" selection-end-line="886" selection-end-column="221" />
               <folding>
                 <element signature="e#44440#44461#0" expanded="true" />
                 <element signature="e#44744#44790#0" expanded="true" />
@@ -59,8 +64,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/about.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="209">
-              <caret line="405" selection-start-line="405" selection-end-line="405" />
+            <state relative-caret-position="180">
+              <caret line="411" selection-start-line="411" selection-end-line="411" />
               <folding>
                 <element signature="e#40609#40629#0" expanded="true" />
                 <element signature="e#41211#41242#0" expanded="true" />
@@ -81,11 +86,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/contact.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="32">
-              <caret line="420" column="51" selection-start-line="420" selection-start-column="51" selection-end-line="420" selection-end-column="51" />
+            <state relative-caret-position="158">
+              <caret line="411" selection-start-line="411" selection-end-line="411" />
               <folding>
                 <element signature="e#40863#40894#0" expanded="true" />
                 <element signature="e#41453#41484#0" expanded="true" />
@@ -109,7 +114,6 @@
       <find>Completed Cases</find>
       <find>rgb</find>
       <find>elementor-widget-container</find>
-      <find>elementor-column-wrap  elementor-element-populated</find>
       <find>409</find>
       <find>Our Achievements</find>
       <find>Our Team</find>
@@ -122,7 +126,6 @@
       <find>d-flex align-items-center banner-area banner-bg</find>
       <find>COMPETIT</find>
       <find>#ekit_modal-popup-d235a82</find>
-      <find>logo</find>
       <find>elementor-widget-wrap</find>
       <find>©2020,</find>
       <find>Copyright</find>
@@ -132,16 +135,21 @@
       <find>Legal info</find>
       <find>From the Blog</find>
       <find>Pages</find>
+      <find>logo</find>
+      <find>elementor-column-wrap  elementor-element-populated</find>
     </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/wp/privsan/blue/wp-content/themes/privsa/assets/css/master.css" />
         <option value="$PROJECT_DIR$/wpx/privsan/blue/wp-content/themes/privsa/assets/css/master.css" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/about.html" />
         <option value="$PROJECT_DIR$/contact.html" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -155,6 +163,7 @@
     <option name="width" value="1280" />
     <option name="height" value="800" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -249,6 +258,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="ignore_missing_gitignore" value="true" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -275,18 +285,18 @@
       <option name="presentableId" value="Default" />
       <updated>1619729471874</updated>
       <workItem from="1619729476396" duration="4857000" />
-      <workItem from="1619763826605" duration="15556000" />
+      <workItem from="1619763826605" duration="16742000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20413000" />
+    <option name="totallyTimeSpent" value="21599000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2494043" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2494043" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -298,7 +308,7 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.32896653" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -393,10 +403,48 @@
         <state relative-caret-position="-28" />
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/about.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="411" selection-start-line="411" selection-end-line="411" />
+          <folding>
+            <element signature="e#40609#40629#0" expanded="true" />
+            <element signature="e#41211#41242#0" expanded="true" />
+            <element signature="e#41801#41833#0" expanded="true" />
+            <element signature="e#44037#44068#0" expanded="true" />
+            <element signature="e#45701#45732#0" expanded="true" />
+            <element signature="e#45763#45794#0" expanded="true" />
+            <element signature="e#51998#52098#0" expanded="true" />
+            <element signature="e#49647#49670#0" expanded="true" />
+            <element signature="e#59086#59117#0" expanded="true" />
+            <element signature="e#73615#73635#0" expanded="true" />
+            <element signature="e#75080#75100#0" expanded="true" />
+            <element signature="e#76508#76528#0" expanded="true" />
+            <element signature="e#105613#105644#0" expanded="true" />
+            <element signature="e#107771#107791#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/contact.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="158">
+          <caret line="411" selection-start-line="411" selection-end-line="411" />
+          <folding>
+            <element signature="e#40863#40894#0" expanded="true" />
+            <element signature="e#41453#41484#0" expanded="true" />
+            <element signature="e#43278#43309#0" expanded="true" />
+            <element signature="e#45038#45063#0" expanded="true" />
+            <element signature="e#51598#51690#0" expanded="true" />
+            <element signature="e#70047#70078#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="70">
-          <caret line="1581" selection-start-line="1581" selection-end-line="1581" />
+        <state relative-caret-position="149">
+          <caret line="886" column="221" selection-start-line="886" selection-start-column="216" selection-end-line="886" selection-end-column="221" />
           <folding>
             <element signature="e#44440#44461#0" expanded="true" />
             <element signature="e#44744#44790#0" expanded="true" />
@@ -430,44 +478,6 @@
             <element signature="e#177240#177271#0" expanded="true" />
             <element signature="e#193357#193389#0" expanded="true" />
             <element signature="e#165167#165187#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/about.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="405" selection-start-line="405" selection-end-line="405" />
-          <folding>
-            <element signature="e#40609#40629#0" expanded="true" />
-            <element signature="e#41211#41242#0" expanded="true" />
-            <element signature="e#41801#41833#0" expanded="true" />
-            <element signature="e#44037#44068#0" expanded="true" />
-            <element signature="e#45701#45732#0" expanded="true" />
-            <element signature="e#45763#45794#0" expanded="true" />
-            <element signature="e#51998#52098#0" expanded="true" />
-            <element signature="e#49647#49670#0" expanded="true" />
-            <element signature="e#59086#59117#0" expanded="true" />
-            <element signature="e#73615#73635#0" expanded="true" />
-            <element signature="e#75080#75100#0" expanded="true" />
-            <element signature="e#76508#76528#0" expanded="true" />
-            <element signature="e#105613#105644#0" expanded="true" />
-            <element signature="e#107771#107791#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/contact.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="32">
-          <caret line="420" column="51" selection-start-line="420" selection-start-column="51" selection-end-line="420" selection-end-column="51" />
-          <folding>
-            <element signature="e#40863#40894#0" expanded="true" />
-            <element signature="e#41453#41484#0" expanded="true" />
-            <element signature="e#43278#43309#0" expanded="true" />
-            <element signature="e#45038#45063#0" expanded="true" />
-            <element signature="e#51598#51690#0" expanded="true" />
-            <element signature="e#70047#70078#0" expanded="true" />
           </folding>
         </state>
       </provider>
